@@ -104,3 +104,4 @@ a.obor:hover{transform:translateY(-3px);border-top-color:var(--accent)}
 .obor img{width:calc(100% + 3rem);margin:-1.5rem -1.5rem 1rem;aspect-ratio:16/10;object-fit:cover;max-width:none}
 .reno{align-items:start}.reno .kroky{grid-template-columns:1fr;margin:0}.reno-foto{margin:0}.reno-foto img{aspect-ratio:4/3;object-fit:cover;object-position:center 30%}
 #rybina .fota-sloupec img{aspect-ratio:4/3}
+.reno-foto{overflow:hidden}.reno-foto img{transform:scale(1.18);transform-origin:50% 0}
