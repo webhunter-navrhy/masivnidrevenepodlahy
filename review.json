@@ -1,19 +1,16 @@
 {
-  "znamka": 7,
+  "znamka": 8,
   "slabiny": [
-    "Sekce Renovace v pěti krocích (PC, 1440 px): fotka lak-a-640 je roztažená 1,8× na celou šířku (1152 px). Je rozmazaná, plná odlesků a u spodního okraje má červený předmět. Fotku zmenšit na nejvýš 640–760 px a dát ji vedle kroků do dvou sloupců (kroky vlevo pod sebou, fotka vpravo). Spodek oříznout přes aspect-ratio a object-position, aby červený předmět zmizel.",
-    "Hlavička a hero (PC i mobil): klient má na webu jako hlavní výzvu „Zavolejte nám na číslo 728 252 929“, v návrhu je ale telefon jen v patičce. Do hlavičky na PC dát vedle tlačítka Poptat klikací číslo 728 252 929, na mobilu ikonu telefonu vedle tlačítka Menu. V hero dát místo odkazu „Prohlédnout vzorník“ druhé CTA „Zavolat“. Kurzívový podtitul „pro Prahu a okolí“ (zakázaný vzor) přepsat do běžného řezu, nebo ho vložit do eyebrow „Praha 2 – Vinohrady“.",
-    "Sekce Co u nás najdete a Rybina, která vydrží (PC): 4 stejné karty jen s textem působí jako šablona. Do každé karty dát nahoru výřez reálné fotky nebo vzorku (prkno, rybina, mozaika ze vzorníku, renovace). V sekci Rybina nahradit dva tenké pruhy (poměr asi 4:1, rybina v nich není čitelná) jednou fotkou v poměru 4:3 v plné výšce textového sloupce."
+    "Hlavička na mobilu (390 a 360 px): z minulé výtky zůstala nesplněná ikona telefonu. Vpravo je jen tlačítko Menu. Vlevo od něj doplnit klikací ikonu telefonu (tel:+420728252929, dotyková plocha aspoň 44 px), aby šlo zavolat z každé obrazovky, nejen z hero.",
+    "Sekce Renovace v pěti krocích (PC, 1440 px): fotka sahá jen ke kroku 3. Vedle kroků 4 a 5 zůstává vpravo prázdný sloupec široký asi 560 px. Fotce dát position: sticky (top pod hlavičkou), nebo ji natáhnout přes aspect-ratio na výšku celého sloupce kroků. Kroky by šlo zhustit i na mřížku 2 × 3.",
+    "Hlavička na PC i mobilu: logo Podlahy Šťastný je malé, asi 28–30 px na výšku, a nápis „Šťastný“ pod obloukem je skoro nečitelný. Zvětšit logo na 44–48 px výšky na PC a 40 px na mobilu. Výšku hlavičky nechat a logo zarovnat svisle na střed."
   ],
-  "zavazne": [
-    "Sekce Renovace v pěti krocích, PC: fotka img/lak-a-640.webp je roztažená 1,8× (640 → 1152 px), je viditelně rozmazaná a QA kvůli ní končí chybou (ok: false). Zmenšit na přirozenou velikost nebo použít větší zdroj."
-  ],
+  "zavazne": [],
   "silne": [
-    "Koncept vzorníku dřevin (13 klikacích vzorků mozaiky na tmavém podkladu) vychází přímo z oboru i z toho, co firma prodává. Tmavá plocha má důvod, vzorky na ní vyniknou.",
-    "Brand sedí: logo Podlahy Šťastný je vlevo v hlavičce, červená #c9291d z loga je jediný akcent na CTA a linkách, krémová a hnědá paleta odpovídá dřevu.",
-    "Pravdivý obsah z briefu: studio Slavíkova 29 pět minut od náměstí Jiřího z Poděbrad, otevírací doba, broušení bez prachu, lak, olej i vosk, odkaz na sesterský web s vinylem. Žádná vymyšlená čísla ani recenze.",
-    "Mobil bez přetékání na všech šířkách, karty a vzorník jsou na 390 px čitelné, dotykové cíle mají správnou velikost. Fraunces s Barlow vykreslí diakritiku správně."
+    "Všechny čtyři hlavní výtky jsou opravené. Fotka s lakem už není roztažená a stojí vedle kroků bez červeného předmětu. Telefon je v hlavičce na PC a v hero je CTA „Zavolat 728 252 929“. Podtitul už není v kurzívě. Karty mají reálné výřezy podlah a Rybina má jednu fotku 4:3. QA je zelené (ok: true, žádné přetečení).",
+    "Koncept vychází z oboru: vzorník třinácti dřevin z mozaiky jako hmatatelná paleta, karty s výřezy skutečných podlah, teplá krémová paleta s červenou z loga. Brand klienta je zachovaný.",
+    "Obsah je pravdivý a stojí na briefu (Slavíkova 29, otevírací doba, služby, odkaz na vinyl na podlahystastny.cz). Nic není vymyšlené. Mobil je navržený pro telefon: karty pod sebou, čitelné texty a dvě velká CTA."
   ],
-  "verdikt": "Solidní, pravdivý redesign s dobrým oborovým nápadem (vzorník dřevin) a dodrženým brandem. Kvůli roztažené rozmazané fotce v sekci Renovace, telefonu schovanému v patičce a šablonovitým textovým kartám zatím není na odeslání. Verdikt: opravit.",
-  "_hash": "961acbb58572231abe61e8358e356cda6d94e438"
+  "verdikt": "Opravené kolo splnilo všechny minulé výtky kromě ikony telefonu na mobilu a nemá žádnou závažnou vadu. Je to poctivý, oborový a dostatečně dobrý návrh k odeslání. Doladit mobilní telefon v hlavičce, prázdný sloupec u Renovace a velikost loga.",
+  "_hash": "67a6e696ab6b41fa81994c861757226d5221a3a1"
 }

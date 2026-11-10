@@ -105,3 +105,5 @@ a.obor:hover{transform:translateY(-3px);border-top-color:var(--accent)}
 .reno{align-items:start}.reno .kroky{grid-template-columns:1fr;margin:0}.reno-foto{margin:0}.reno-foto img{aspect-ratio:4/3;object-fit:cover;object-position:center 30%}
 #rybina .fota-sloupec img{aspect-ratio:4/3}
 .reno-foto{overflow:hidden}.reno-foto img{transform:scale(1.18);transform-origin:50% 0}
+@media(max-width:25rem){.hl-tel{display:inline-flex!important}}
+@media(min-width:62rem){.reno-foto{position:sticky;top:96px}}

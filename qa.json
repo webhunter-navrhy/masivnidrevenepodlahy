@@ -1,9 +1,7 @@
 {
   "url": "https://webhunter-navrhy.github.io/masivnidrevenepodlahy/",
-  "ok": false,
-  "chyby": [
-    "Roztažené fotky >1,3× (PC, 1): img/lak-a-640.webp nat 640 px, vykresleno 1152 px (1.80×)"
-  ],
+  "ok": true,
+  "chyby": [],
   "varovani": [],
   "metriky": {
     "sirky": {
@@ -32,18 +30,18 @@
         "pocet_pretekajicich": 0
       }
     },
-    "preneseno_PC_MB": 0.91,
+    "preneseno_PC_MB": 0.96,
     "nejvetsi_obrazek_PC": {
       "kB": 164,
       "url": "https://webhunter-navrhy.github.io/masivnidrevenepodlahy/img/hero-1920.webp"
     },
     "snimku_PC": 5,
-    "preneseno_mobil_MB": 1.02,
+    "preneseno_mobil_MB": 1.22,
     "nejvetsi_obrazek_mobil": {
       "kB": 98,
       "url": "https://webhunter-navrhy.github.io/masivnidrevenepodlahy/img/lak-a-1280.webp"
     },
-    "snimku_mobil": 8,
+    "snimku_mobil": 9,
     "seo": {
       "title": "Masivní dřevěné podlahy a parkety Praha | Podlahy Šťastný",
       "description": "Masivní dřevěné podlahy, parkety do rybiny, průmyslová mozaika a renovace parket v Praze. Studio na ",
