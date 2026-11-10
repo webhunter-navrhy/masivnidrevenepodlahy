@@ -1,0 +1,3 @@
+<ul class="vzornik" role="list">
+{% for v in data.vzornik %}<li><button type="button" class="vzorek" aria-label="{{ v.nazev }}">{{ img(v.foto, 'Vzorek mozaiky: ' ~ v.nazev, sizes='120px') }}<span class="vzorek-jmeno">{{ v.nazev }}</span></button></li>{% endfor %}
+</ul>

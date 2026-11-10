@@ -1,0 +1,20 @@
+{% extends "_base.html" %}
+{% set titulek = 'Realizace masivních podlah a parket | Podlahy Šťastný' %}
+{% set popis = 'Fotografie z našich realizací: dubová rybina v bytě, renovace a lakování parket v Praze.' %}
+{% set cesta = 'realizace/' %}
+{% block obsah %}
+<section class="podhero"><div class="wrap"><p class="oko">Realizace</p><h1>Z našich realizací</h1><p class="lede">Dubová rybina v tmavším tónu a renovovaná parketa s lakem.</p></div></section>
+<section class="sekce"><div class="wrap">
+  <div class="galerie">
+    {{ img('rybina-a.jpg', 'Dubová rybina, detail kresby dřeva', sizes='(min-width: 60rem) 36rem, 100vw') }}
+    {{ img('rybina-b.jpg', 'Dubová rybina v tmavším tónu', sizes='(min-width: 60rem) 36rem, 100vw') }}
+    {{ img('rybina-c.jpg', 'Dubová rybina po pokládce', sizes='(min-width: 60rem) 36rem, 100vw') }}
+    {{ img('rybina-d.jpg', 'Dubová rybina v prostoru s krbem', sizes='(min-width: 60rem) 36rem, 100vw') }}
+    {{ img('rybina-e.jpg', 'Dubová rybina v obývacím prostoru', sizes='(min-width: 60rem) 36rem, 100vw') }}
+    {{ img('rybina-g.jpg', 'Dubová rybina u zdi, boční pohled', sizes='(min-width: 60rem) 36rem, 100vw') }}
+    {{ img('lak-a.jpg', 'Renovovaná parketa s lakem', sizes='(min-width: 60rem) 36rem, 100vw') }}
+    {{ img('lak-b.jpg', 'Lakovaná rybina po renovaci', sizes='(min-width: 60rem) 36rem, 100vw') }}
+  </div>
+</div></section>
+<section class="sekce sekce-pruh"><div class="wrap cta"><h2>Vyberete si podlahu?</h2><p>Napište, kolik metrů a v jakém prostoru. Pošleme návrh a cenu.</p><p class="akce"><a class="tlacitko" href="{{ url('kontakt') }}#poptavka">Poptat podlahu</a></p></div></section>
+{% endblock %}

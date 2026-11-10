@@ -1,0 +1,14 @@
+{% extends "_base.html" %}
+{% set titulek = 'Průmyslová dřevěná mozaika – 13 dekorů dřevin | Praha' %}
+{% set popis = 'Průmyslová mozaika z masivního dřeva ve třinácti dekorech: dub, jasan, buk, javor, ořech, merbau, wenge a další. Poradíme v pražském studiu.' %}
+{% set cesta = 'prumyslova-mozaika/' %}
+{% block obsah %}
+<section class="podhero"><div class="wrap"><p class="oko">Průmyslová mozaika</p><h1>Průmyslová dřevěná mozaika ve 13 dekorech</h1><p class="lede">Tvrdá a odolná skladba z krátkých lamel. Vhodná tam, kde se po podlaze opravdu chodí.</p></div></section>
+<section class="sekce sekce-tmava"><div class="wrap">
+  <h2 class="nadpis-sekce">Vzorník dekorů</h2>
+  <p class="uvod-sekce">Dub, kouřový dub, červený dub, jasan, buk, javor, bříza, třešeň, americký ořech, merbau, iroko, teak a wenge.</p>
+  {% include "_vzornik.html" %}
+</div></section>
+<section class="sekce"><div class="wrap dva-sloupce"><div class="text"><h2 class="nadpis-sekce">Jak si vybrat</h2><p>Světlé dřeviny (javor, bříza, jasan) zvětšují prostor. Střední tóny (dub, buk, třešeň) jsou univerzální. Tmavé (ořech, wenge, merbau) působí slavnostně, ale ukazují prach a stopy víc.</p><p>Fotky na obrazovce barvu nepřesně ukazují. Vzorky si můžete prohlédnout ve studiu.</p></div><div class="fota-sloupec">{{ img('lak-b.jpg', 'Lesklá masivní parketová podlaha z krátkých lamel', sizes='(min-width: 60rem) 36rem, 100vw') }}</div></div></section>
+<section class="sekce sekce-pruh"><div class="wrap cta"><h2>Vyberete si podlahu?</h2><p>Napište, kolik metrů a v jakém prostoru. Pošleme návrh a cenu.</p><p class="akce"><a class="tlacitko" href="{{ url('kontakt') }}#poptavka">Poptat podlahu</a></p></div></section>
+{% endblock %}

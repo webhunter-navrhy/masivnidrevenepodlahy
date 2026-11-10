@@ -1,0 +1,63 @@
+{
+  "slug": "masivnidrevenepodlahy",
+  "nazev": "Podlahy Šťastný – masivní dřevěné podlahy",
+  "url": "https://webhunter-navrhy.github.io/masivnidrevenepodlahy/",
+  "base": "/masivnidrevenepodlahy/",
+  "lang": "cs",
+  "popis": "Masivní dřevěné podlahy, parkety a průmyslová mozaika, broušení a renovace parket v Praze a Středočeském kraji. Studio na Vinohradech.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "rybina-c.jpg",
+  "logo": "logo.png",
+  "theme_color": "#F3ECE0",
+  "typ": "LocalBusiness",
+  "ico": "74119893",
+  "kontakt": {
+    "email": "info@podlahystastny.cz",
+    "telefon": "+420 728 252 929",
+    "adresa": {
+      "ulice": "Slavíkova 29",
+      "psc": "120 00",
+      "mesto": "Praha 2 – Vinohrady",
+      "zeme": "CZ"
+    }
+  },
+  "oteviraci_doba": [
+    "Mo-Tu 09:00-18:00",
+    "We-Th 09:00-17:00",
+    "Fr 09:00-16:30"
+  ],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Poptávka z webu masivnidrevenepodlahy.cz"
+  },
+  "nav": [
+    {
+      "text": "Podlahy",
+      "href": "masivni-drevene-podlahy"
+    },
+    {
+      "text": "Parkety",
+      "href": "masivni-drevene-parkety"
+    },
+    {
+      "text": "Mozaika",
+      "href": "prumyslova-mozaika"
+    },
+    {
+      "text": "Renovace",
+      "href": "renovace-parket-praha"
+    },
+    {
+      "text": "Realizace",
+      "href": "realizace"
+    },
+    {
+      "text": "Kontakt",
+      "href": "kontakt"
+    }
+  ]
+}

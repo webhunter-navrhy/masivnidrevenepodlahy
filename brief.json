@@ -1,0 +1,719 @@
+{
+ "slug": "masivnidrevenepodlahy",
+ "zdroj_url": "https://www.masivnidrevenepodlahy.cz/",
+ "firma": "Podlahy Šťastný – masivní dřevěné podlahy",
+ "obor": [
+  "stavebnictví a řemesla",
+  "právo a poradenství"
+ ],
+ "ico": "",
+ "ares": null,
+ "kontakty": {
+  "emaily": [
+   "info@podlahystastny.cz"
+  ],
+  "telefony": [
+   "+420 727 945 909",
+   "+420 728 252 929",
+   "728 252 929"
+  ],
+  "adresa": "",
+  "socialni_site": []
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2022/02/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "rozmery": [
+   500,
+   303
+  ]
+ },
+ "barvy": {
+  "css_promenne": {},
+  "z_css": [
+   "#39599e",
+   "#e35656",
+   "#20b426",
+   "#82d344",
+   "#ff6900",
+   "#039146"
+  ],
+  "z_loga": [
+   "#c9291d"
+  ],
+  "theme_color": null,
+  "doporucene": [
+   "#c9291d",
+   "#39599e",
+   "#e35656"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.jpg",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2020/04/IMG_1662.jpg",
+   "sirka": 960,
+   "vyska": 720,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-02.webp",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2025/05/20240222102055191.webp",
+   "sirka": 1024,
+   "vyska": 744,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-03.jpg",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2025/05/8676x1-760x570-1.jpg",
+   "sirka": 760,
+   "vyska": 570,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-04.png",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2026/05/ChatGPT-Image-20.-5.-2026-11_52_48.png",
+   "sirka": 1536,
+   "vyska": 1024,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-05.png",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2026/05/ChatGPT-Image-20.-5.-2026-11_56_39.png",
+   "sirka": 1536,
+   "vyska": 1024,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-06.png",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2026/05/ChatGPT-Image-20.-5.-2026-12_32_07.png",
+   "sirka": 1536,
+   "vyska": 1024,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-07.png",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2026/05/ChatGPT-Image-20.-5.-2026-12_11_50.png",
+   "sirka": 1536,
+   "vyska": 1024,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-08.png",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2026/05/ChatGPT-Image-21.-5.-2026-12_13_27-600x329.png",
+   "sirka": 600,
+   "vyska": 329,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-09.png",
+   "url": "https://www.masivnidrevenepodlahy.cz/wp-content/uploads/2017/08/ChatGPT-Image-21.-5.-2026-12_11_47.png",
+   "sirka": 1983,
+   "vyska": 793,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h1",
+   "text": "Renovace podlah Praha – masivní dřevěné podlahy a parkety",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Profesionální renovace dřevěných podlah v Praze a okolí",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Renovace parket bez kompromisů",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Masivní dřevěné podlahy s dlouhou životností",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Dubové podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Bukové podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Prkenné podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Historické parkety",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Proč si vybrat právě nás",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Precizní práce a zkušenosti",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Moderní technologie",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Individuální přístup",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Kvalitní povrchová úprava",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Praha a okolí",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Broušení podlah Praha",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Lakování a olejování podlah",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Lakované podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Olejované podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Voskované podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Renovace podlah na klíč",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "Vyberte si podlahu, která vydrží celý život",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Masivní dřevěné podlahy nejsou trend. Jsou to poctivé řemeslo.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Dřevo, které má duši",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Podlahy děláme celý život",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "„Jakou podlahu byste si dali domů vy sami?“",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Nabízíme několik typů masivních podlah",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Masivní parkety",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Masivní prkna",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Průmyslová mozaika",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Masivní podlaha je investice, která dává smysl",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Precizní pokládka je základ",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Masivní dřevěné podlahy Praha",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "Renovace podlah pro krásnější domov",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Rodinná firma Podlahy Šťastný",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "Renovace masivních podlah a parket Praha",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Poctivá renovace dřeva, která vrací podlahám nový život",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Proč renovovat místo výměny podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Profesionální renovace parket a masivních podlah",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Broušení podlah bez zbytečného prachu",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Lak nebo olej? Každá podlaha potřebuje správnou ochranu",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Lakované podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h3",
+   "text": "Olejované podlahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Renovace historických parket Praha",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Masivní podlahy, které mají charakter",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Rodinná firma z Prahy",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "h2",
+   "text": "Renovace podlah Praha a okolí",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Sortiment Renovace podlah a parket Masivní dřevěné parkety Masivní dřevěné podlahy Průmyslové mozaiky Realizace Cenová kalkulace",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Sortiment Renovace podlah a parket Masivní dřevěné parkety Masivní dřevěné podlahy Průmyslové mozaiky Realizace Cenová kalkulace",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vrátíme vaší podlaze původní krásu, přirozený vzhled a dlouhou životnost. Specializujeme se na renovace masivních podlah, parket, prkenných podlah i dřevěných schodišť. Každou podlahu renovujeme precizně, s důrazem na detail, kvalitní materiály a perfektní finální vzhled.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dřevěná podlaha je dominantou každého interiéru. Časem se však objeví škrábance, vyšlapaná místa, zašlý lak nebo barevné rozdíly. Díky profesionálnímu broušení a nové povrchové úpravě dokážeme podlahu kompletně obnovit tak, aby vypadala opět jako nová.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Provádíme kompletní renovace starých parket v bytech, rodinných domech, kancelářích i komerčních prostorech. Každá zakázka začíná pečlivým posouzením stavu podlahy a návrhem ideálního postupu renovace.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "profesionální broušení podlah bez zbytečného prachu",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Používáme moderní brusné technologie, které zajišťují kvalitní výsledek a minimalizují prašnost během prací.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Masivní podlahy patří mezi nejkvalitnější typy podlahových krytin. Jejich výhodou je možnost opakované renovace a dlouhá životnost. Správně zrenovovaná masivní podlaha vydrží krásná desítky let.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Elegantní a velmi odolné podlahy vhodné do moderních i klasických interiérů.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Tvrdé a pevné dřevo s jemnou strukturou a světlým vzhledem.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Staré i nové masivní podlahy s důrazem na zachování charakteru dřeva.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Citlivé renovace původních parket v historických bytech a domech.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Máme dlouholeté zkušenosti s renovací všech typů dřevěných podlah.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Používáme profesionální brusky a kvalitní materiály ověřených značek.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Každá podlaha je jiná. Navrhujeme řešení přesně podle jejího stavu a požadavků klienta.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Lak, olej nebo vosk vybíráme podle zatížení podlahy i požadovaného vzhledu.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Realizujeme zakázky po celé Praze a ve Středočeském kraji.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Broušení je nejdůležitější část renovace podlahy. Kvalitně vybroušený povrch je základem perfektního výsledku. Odstraňujeme staré laky, nerovnosti, rýhy i drobná poškození. Výsledkem je hladká a připravená podlaha pro novou ochrannou vrstvu.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Finální úprava výrazně ovlivňuje vzhled i odolnost podlahy. Nabízíme několik variant povrchové ochrany.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vysoce odolný povrch vhodný pro domácnosti i komerční prostory.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Přirozený vzhled dřeva, příjemný matný efekt a snadná lokální oprava.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Tradiční elegantní vzhled s důrazem na přírodní charakter dřeva.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Postaráme se o celý proces renovace od první konzultace až po finální předání podlahy. Poradíme s výběrem povrchové úpravy, odstínu i následné péče o dřevěnou podlahu.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Naším cílem je vytvořit podlahu, která bude nejen krásná na pohled, ale také maximálně odolná pro každodenní používání.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dnes můžete koupit podlahu téměř kdekoliv. Laminát, vinyl, imitaci dřeva, levné klikací systémy. Na první pohled možná vypadají dobře. Ale po pár letech používání začnou být vidět rozdíly.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Odřeniny. Vybledlé spoje. Poškozené hrany. Studený umělý povrch bez života.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Je to skutečné dřevo. Materiál, který žije, pracuje a přirozeně stárne do krásy. Podlaha, která po letech neztrácí charakter, ale získává ho. Každý suk, kresba i odstín vytváří originál, který žádná imitace nikdy nenahradí.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dobře položená masivní podlaha vám může vydržet desítky let. Dá se renovovat, brousit, olejovat i lakovat znovu a znovu. Nevyhazuje se po pár letech — zůstává součástí domova.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Masivní podlahy nejsou jen o vzhledu. Když po nich chodíte bosou nohou, okamžitě poznáte rozdíl. Dřevo je teplé, příjemné a přirozené. Vytváří atmosféru, kterou plast ani laminát nikdy neumí.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "A právě proto se masivní dřevo používá už stovky let. Protože kvalitní materiály nestárnou.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dřevo není jen naše práce. Je to řemeslo, kterému se věnujeme roky.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Každý den renovujeme parkety, pokládáme masivní prkna, brousíme staré podlahy a vracíme život dřevu, které by jiní vyhodili. Za ty roky jsme viděli stovky realizací a jednu věc víme jistě:",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Protože je opravdové. Protože vydrží. Protože má charakter. A protože stárne krásně.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Nadčasová klasika, kterou znáte z prvorepublikových bytů a historických domů. Parkety mají jedinečný charakter a obrovskou výhodu — dají se renovovat prakticky donekonečna.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Správně položené masivní parkety vydrží i několik generací.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Široká dřevěná prkna vytváří luxusní a klidný vzhled interiéru. Každé prkno je originál a nádherně zvýrazňuje kresbu přírodního dřeva.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Jsou ideální pro všechny, kdo chtějí prémiovou podlahu bez kompromisů.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Jedna z nejodolnějších dřevěných podlah vůbec. Průmyslová mozaika je pevná, stabilní a perfektně zvládá vysokou zátěž.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "A přestože je extrémně odolná, pořád jde o krásné přírodní dřevo s originální strukturou.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ano — masivní dřevěná podlaha není nejlevnější varianta na trhu.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ale je to jedna z mála věcí v interiéru, která vám může vydržet celý život.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Levné podlahy po několika letech měníte. Masiv renovujete.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Kvalitní podlaha není jen o materiálu. Stejně důležitá je odborná pokládka.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Nevěříme na rychlé anonymní montáže. Dřevo si zaslouží poctivou práci.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Pokud hledáte kvalitní masivní podlahu v Praze a okolí, rádi vám pomůžeme vybrat ideální řešení přesně pro váš interiér.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ukážeme vám rozdíly mezi jednotlivými typy dřeva, doporučíme vhodnou povrchovou úpravu a postaráme se o kompletní realizaci od začátku až do konce.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Protože kvalitní podlaha není jen produkt. Je to základ domova na mnoho let dopředu.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dřevěná podlaha má jedinečný charakter, který stojí za to zachovat. Specializujeme se na profesionální renovace parket, masivních podlah a dřevěných schodišť v Praze a okolí. Vracíme starým podlahám nový život pomocí precizního broušení, tmelení, lakování i olejování.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ať už potřebujete kompletní renovaci podlahy, odborné broušení bez zbytečného prachu nebo poradit s výběrem vhodné povrchové úpravy, jsme tu pro vás. Každou realizaci řešíme individuálně s důrazem na kvalitu, detail a dlouhou životnost výsledku.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Cenovou kalkulaci i odborné poradenství u firmy Podlahy Šťastný máte vždy zdarma.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "📞 Zavolejte nám na číslo 728 252 929 Rádi vám poradíme a doporučíme nejlepší řešení pro vaši podlahu.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dřevěná podlaha není jen obyčejná součást interiéru. Je to materiál s charakterem, historií a atmosférou, kterou žádná moderní imitace nenahradí. Časem však každá podlaha ztratí svůj původní vzhled. Objevují se škrábance, vyšlapaná místa, zašlý lak, vrzání nebo poškozené parkety.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "To ale neznamená, že je potřeba podlahu vytrhat a nahradit novou.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ve většině případů stačí profesionální renovace, díky které dokážeme staré parkety nebo masivní podlahu vrátit zpět do perfektního stavu. A často výsledek předčí očekávání.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Specializujeme se na renovace masivních podlah a parket v Praze a okolí. Každou podlahu renovujeme s maximální pečlivostí, respektem ke dřevu a důrazem na detail.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Staré dřevěné podlahy mají obrovskou hodnotu. Často jsou vyrobené z kvalitního masivního dřeva, které dnešní levné podlahové krytiny nikdy nenahradí.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Kvalitní masivní podlaha může po renovaci bez problémů sloužit dalších 20–30 let.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Každá renovace začíná důkladným posouzením stavu podlahy. Neexistuje univerzální řešení — každé dřevo reaguje jinak a každá podlaha potřebuje individuální přístup.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Používáme profesionální brusné technologie a kvalitní materiály, díky kterým dosahujeme perfektního výsledku a dlouhé životnosti podlahy.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Jednou z největších obav zákazníků bývá nepořádek během renovace. Proto používáme moderní brusné stroje s výkonným odsáváním prachu.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Výsledkem je dokonale hladký povrch připravený na novou finální úpravu.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Finální povrchová úprava zásadně ovlivňuje vzhled i životnost podlahy.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Lak vytváří velmi odolný ochranný povrch a je ideální do více zatěžovaných prostor. Podlaha se snadno udržuje a dlouhodobě si zachovává svůj vzhled.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Olej proniká hluboko do struktury dřeva a zachovává jeho přirozený vzhled i dotek. Dřevo působí luxusněji, tepleji a autentičtěji.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Používáme kvalitní oleje a laky renomovaných značek:",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Pomůžeme vám vybrat ideální variantu přesně podle stylu interiéru a zatížení podlahy.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Máme zkušenosti také s renovacemi starých parket v historických bytech, vilách a činžovních domech po celé Praze.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Naším cílem je zachovat původní charakter podlahy a zároveň jí vrátit pevnost, krásu a dlouhou životnost.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dřevo je materiál, který nestárne — zraje. Každá renovovaná podlaha získává jedinečný vzhled, který nová laminátová nebo vinylová podlaha nikdy nenahradí.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Proto stále více lidí místo výměny podlahy volí kvalitní renovaci.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Jsme rodinná firma a k podlahám přistupujeme poctivě, jako bychom je renovovali sami pro sebe. Zakládáme si na kvalitní práci, férovém přístupu a detailním provedení každé realizace.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Pokud chcete vrátit své podlaze původní krásu, rádi vám připravíme nezávaznou cenovou nabídku a doporučíme nejlepší řešení právě pro váš interiér.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Navštívit naši vzorkovnu můžete v Praze, pouze 5 min od náměstí Jiřího z Poděbrad! Potěší nás každá návštěva, každá připomínka a samozřejmě i každá pochvala.",
+   "zdroj": "https://www.masivnidrevenepodlahy.cz/"
+  }
+ ],
+ "chybi": [
+  "IČO",
+  "adresa / provozovna",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": "Podlahy Šťastný – specialisté na renovace parket a dřevěných podlah v Praze. Nabízíme broušení bez prachu, tmelení, lakování, olejování, opravy a pokládku parket. Navštivte nás na adrese Slavíkova 29, Praha 2."
+}

@@ -1,0 +1,20 @@
+{% extends "_base.html" %}
+{% set titulek = 'Kontakt a poptávka – Podlahy Šťastný, Praha 2' %}
+{% set popis = 'Studio Slavíkova 29, Praha 2 – Vinohrady. Poptávka masivních dřevěných podlah, parket a renovace.' %}
+{% set cesta = 'kontakt/' %}
+{% block obsah %}
+<section class="podhero"><div class="wrap"><p class="oko">Kontakt</p><h1>Kontakt a poptávka</h1><p class="lede">Napište, jakou podlahu máte na mysli, nebo přijďte do studia.</p></div></section>
+<section class="sekce" id="poptavka"><div class="wrap dva-sloupce">
+  <div class="text">
+    <h2 class="nadpis-sekce">Studio</h2>
+    <p class="kontakt-radky"><b>Podlahy Šťastný</b><br>Slavíkova 29, 120 00 Praha 2 – Vinohrady<br>pět minut od náměstí Jiřího z Poděbrad</p>
+    <p class="kontakt-radky">Petra Šťastná: <a href="tel:+420727945909">+420 727 945 909</a><br>Josef Šťastný: <a href="tel:+420728252929">+420 728 252 929</a><br><a href="mailto:info@podlahystastny.cz">info@podlahystastny.cz</a></p>
+    <p class="kontakt-radky">Po–Út 9–18 · St–Čt 9–17 · Pá 9–16:30<br>přestávka 12–13 h</p>
+    <p class="poznamka">IČO 74119893 · DIČ CZ7502200904</p>
+  </div>
+  <div>
+    <h2 class="nadpis-sekce">Poptávka</h2>
+    {% include "_formular.html" %}
+  </div>
+</div></section>
+{% endblock %}

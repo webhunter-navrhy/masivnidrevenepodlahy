@@ -1,0 +1,21 @@
+{% extends "_base.html" %}
+{% set titulek = 'Masivní dřevěné parkety – rybina, chevron, šachovnice | Praha' %}
+{% set popis = 'Masivní dřevěné parkety do rybiny, chevronu, šachovnice a cihly. Řemeslná pokládka v Praze a Středočeském kraji.' %}
+{% set cesta = 'masivni-drevene-parkety/' %}
+{% block obsah %}
+<section class="podhero"><div class="wrap"><p class="oko">Masivní parkety</p><h1>Masivní dřevěné parkety do rybiny a dalších vzorů</h1><p class="lede">Parketa je malá lamela masivního dřeva. Ze vzoru, kterým ji položíte, vznikne charakter celé místnosti.</p></div></section>
+<section class="sekce"><div class="wrap">
+  <h2 class="nadpis-sekce">Čtyři klasické vzory</h2>
+  <div class="obory">
+    <div class="obor"><h3>Rybina</h3><p>Lamely ve tvaru V, klasika bytů i zámků. Podlaha vypadá živě a prostor opticky prodlužuje.</p></div>
+    <div class="obor"><h3>Chevron</h3><p>Lamely seříznuté pod úhlem, takže tvoří čistou šipku bez zubů. Elegantnější a klidnější než rybina.</p></div>
+    <div class="obor"><h3>Šachovnice</h3><p>Čtverce ze skupin lamel střídavě otočených. Tradiční vzor pro reprezentativní prostory.</p></div>
+    <div class="obor"><h3>Cihla</h3><p>Lamely kladené s posunem jako zeď. Nejjednodušší vzor, vynikne v něm kresba dřeva.</p></div>
+  </div>
+</div></section>
+<section class="sekce sekce-pruh"><div class="wrap dva-sloupce">
+  <div class="text"><h2 class="nadpis-sekce">Z naší realizace</h2><p>Dubová rybina v tmavším tónu, položená v bytě v celé ploše. Světlo z oken z ní dělá živou plochu a kresba dřeva vynikne i na delší vzdálenost.</p><p><a class="odkaz-sip" href="{{ url('realizace') }}">Další realizace</a></p></div>
+  <div class="fota-sloupec">{{ img('rybina-c.jpg', 'Dubová rybina v tmavém tónu, detail položené podlahy', sizes='(min-width: 60rem) 36rem, 100vw') }}{{ img('rybina-e.jpg', 'Dubová rybina položená v obývacím prostoru', sizes='(min-width: 60rem) 36rem, 100vw') }}</div>
+</div></section>
+<section class="sekce sekce-pruh"><div class="wrap cta"><h2>Vyberete si podlahu?</h2><p>Napište, kolik metrů a v jakém prostoru. Pošleme návrh a cenu.</p><p class="akce"><a class="tlacitko" href="{{ url('kontakt') }}#poptavka">Poptat podlahu</a></p></div></section>
+{% endblock %}

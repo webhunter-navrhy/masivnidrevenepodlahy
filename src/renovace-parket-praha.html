@@ -1,0 +1,22 @@
+{% extends "_base.html" %}
+{% set titulek = 'Renovace a broušení parket Praha – lak, olej, vosk' %}
+{% set popis = 'Broušení parket bez prachu, tmelení, výměna poškozených parket, lakování, olejování i voskování. Praha a Středočeský kraj.' %}
+{% set cesta = 'renovace-parket-praha/' %}
+{% block obsah %}
+<section class="podhero"><div class="wrap"><p class="oko">Renovace</p><h1>Renovace a broušení parket v Praze</h1><p class="lede">Stará podlaha nemusí pryč. Vybrousíme ji, opravíme a vrátíme jí povrch.</p></div></section>
+<section class="sekce"><div class="wrap">
+  <h2 class="nadpis-sekce">Jak renovace probíhá</h2>
+  <ol class="kroky" role="list">
+    <li><b>Posouzení stavu</b><span>Rozhodneme, co stačí vybrousit a co je potřeba vyměnit.</span></li>
+    <li><b>Broušení bez prachu</b><span>Odsávané broušení, prach nezůstane po bytě.</span></li>
+    <li><b>Tmelení</b><span>Spáry a trhliny se vytmelí.</span></li>
+    <li><b>Výměna parket</b><span>Poškozené lamely se vyjmou a nahradí.</span></li>
+    <li><b>Povrch</b><span>Lak, olej nebo vosk podle toho, jaký vzhled chcete.</span></li>
+  </ol>
+</div></section>
+<section class="sekce sekce-pruh"><div class="wrap dva-sloupce">
+  <div class="text"><h2 class="nadpis-sekce">Lak, olej, vosk</h2><p><b>Lak</b> chrání nejvíc a snese provoz. <b>Olej</b> nechá dřevo vypadat jako dřevo a dá se lokálně opravit. <b>Vosk</b> je nejjemnější a hodí se tam, kde se tolik nechodí.</p><p>Renovujeme i schody. Pracujeme v Praze a ve Středočeském kraji.</p></div>
+  <div class="fota-sloupec">{{ img('lak-a.jpg', 'Parketová rybina po broušení a lakování', sizes='(min-width: 60rem) 36rem, 100vw') }}</div>
+</div></section>
+<section class="sekce sekce-pruh"><div class="wrap cta"><h2>Vyberete si podlahu?</h2><p>Napište, kolik metrů a v jakém prostoru. Pošleme návrh a cenu.</p><p class="akce"><a class="tlacitko" href="{{ url('kontakt') }}#poptavka">Poptat podlahu</a></p></div></section>
+{% endblock %}

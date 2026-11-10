@@ -1,0 +1,45 @@
+{% extends "_base.html" %}
+{% set titulek = 'Masivní dřevěné podlahy – dub a jasan, široká prkna | Praha' %}
+{% set popis = 'Masivní dřevěné podlahy z dubu a jasanu ve čtyřech třídách, široká prkna do 35 cm, olejování a kartáčování. Studio Praha 2 – Vinohrady.' %}
+{% set cesta = 'masivni-drevene-podlahy/' %}
+{% block obsah %}
+<section class="podhero"><div class="wrap"><p class="oko">Masivní prkna</p><h1>Masivní dřevěné podlahy z dubu a jasanu</h1><p class="lede">Prkno z jednoho kusu dřeva, které jde několikrát přebrousit a vydrží generace.</p></div></section>
+<section class="sekce"><div class="wrap dva-sloupce">
+  <div class="text">
+    <h2 class="nadpis-sekce">Čtyři třídy třídění dubu</h2>
+    <p>Dubová prkna dodáváme ve čtyřech třídách. Rozdíl je v tom, kolik suků, žilek a barevných změn ve dřevě zůstane.</p>
+    <ul class="seznam" role="list">
+      <li><b>Markant (RM)</b> – pestrá kresba, suky a barevné přechody</li>
+      <li><b>Natur (RB)</b> – živé dřevo s menšími suky</li>
+      <li><b>Rustik (RC)</b> – výrazná kresba i suky</li>
+      <li><b>Selekt (RA)</b> – klidný vzhled, minimum suků</li>
+    </ul>
+    <p>Rozměry: 500–1200 × 130 × 15 mm a 500–2000 × 200 × 20 mm.</p>
+  </div>
+  <div class="fota-sloupec">{{ img('rybina-a.jpg', 'Detail kresby dubového dřeva na položené podlaze', sizes='(min-width: 60rem) 36rem, 100vw') }}</div>
+</div></section>
+
+<section class="sekce sekce-pruh"><div class="wrap">
+  <h2 class="nadpis-sekce">Povrchy a příplatky</h2>
+  <p class="uvod-sekce">Příplatky k základní ceně dubových prken, v Kč za m² (z ceníku původního webu, před spuštěním je s Vámi znovu ověříme).</p>
+  <table class="tabulka"><thead><tr><th>Úprava</th><th>Příplatek</th></tr></thead><tbody>
+    <tr><td>Bez fáze</td><td>+ 85 Kč/m²</td></tr>
+    <tr><td>Kartáčování</td><td>+ 135 Kč/m²</td></tr>
+    <tr><td>Přírodní olej</td><td>+ 190 Kč/m²</td></tr>
+    <tr><td>Tónovaný olej</td><td>+ 240 Kč/m²</td></tr>
+  </tbody></table>
+  <p class="poznamka">U jasanu (třídy Rustik a Selekt) jsou příplatky 65, 125 a 155 Kč/m².</p>
+</div></section>
+
+<section class="sekce"><div class="wrap">
+  <h2 class="nadpis-sekce">Široká prkna</h2>
+  <p class="uvod-sekce">Šířky 18, 24, 32 a 35 cm a délky 200, 350 nebo 450 cm. Pro velké prostory, kde chcete klidnou plochu s dlouhou kresbou.</p>
+  <div class="trojfoto">
+    <figure>{{ img('rudda-dub-colorado.jpg', 'Široké prkno Rudda Dub Colorado', sizes='(min-width: 60rem) 22rem, 100vw') }}<figcaption>Rudda Dub Colorado</figcaption></figure>
+    <figure>{{ img('rudda-dub-gusthof.jpg', 'Široké prkno Rudda Dub Gusthof', sizes='(min-width: 60rem) 22rem, 100vw') }}<figcaption>Rudda Dub Gusthof</figcaption></figure>
+    <figure>{{ img('rudda-dub-chateaux-antik.jpg', 'Široké prkno Rudda Dub Chateaux Antik', sizes='(min-width: 60rem) 22rem, 100vw') }}<figcaption>Rudda Dub Chateaux Antik</figcaption></figure>
+  </div>
+  <p class="poznamka">K dispozici je také Dub Giant.</p>
+</div></section>
+<section class="sekce sekce-pruh"><div class="wrap cta"><h2>Vyberete si podlahu?</h2><p>Napište, kolik metrů a v jakém prostoru. Pošleme návrh a cenu.</p><p class="akce"><a class="tlacitko" href="{{ url('kontakt') }}#poptavka">Poptat podlahu</a></p></div></section>
+{% endblock %}

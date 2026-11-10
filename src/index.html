@@ -1,0 +1,76 @@
+{% extends "_base.html" %}
+{% set titulek = 'Masivní dřevěné podlahy a parkety Praha | Podlahy Šťastný' %}
+{% set popis = 'Masivní dřevěné podlahy, parkety do rybiny, průmyslová mozaika a renovace parket v Praze. Studio na Vinohradech, realizace v Praze a Středočeském kraji.' %}
+{% set cesta = '' %}
+{% block obsah %}
+<section class="hero">
+  <div class="wrap hero-text">
+    <p class="oko">Masivní dřevo · Praha 2 – Vinohrady</p>
+    <h1>Masivní dřevěné podlahy a parkety<span class="h1-dodatek"> pro Prahu a okolí</span></h1>
+    <p class="lede">Dubová a jasanová prkna, parkety do rybiny, průmyslová mozaika. A když podlaha doslouží, vybrousíme ji a vrátíme jí povrch.</p>
+    <p class="akce"><a class="tlacitko" href="{{ url('kontakt') }}#poptavka">Poptat podlahu</a><a class="odkaz-sip" href="#vzornik">Prohlédnout vzorník</a></p>
+  </div>
+  <div class="hero-pas">{{ img('hero.jpg', 'Dubový parket do rybiny po položení, zachycený šikmo od okna', sizes='100vw') }}</div>
+</section>
+
+<section class="sekce" id="obory">
+  <div class="wrap">
+    <h2 class="nadpis-sekce">Co u nás najdete</h2>
+    <div class="obory">
+      <a class="obor" href="{{ url('masivni-drevene-podlahy') }}"><h3>Masivní prkna</h3><p>Dub a jasan ve čtyřech třídách třídění, od jemného po rustikální. Široká prkna až do 35 cm.</p><span class="vice">Prkna a příplatky</span></a>
+      <a class="obor" href="{{ url('masivni-drevene-parkety') }}"><h3>Parkety</h3><p>Rybina, šachovnice, cihla, chevron. Klasická řemeslná skladba pro byty i domy.</p><span class="vice">Vzory parket</span></a>
+      <a class="obor" href="{{ url('prumyslova-mozaika') }}"><h3>Průmyslová mozaika</h3><p>Třináct dekorů od dubu po wenge. Odolná lamela na tvrdý provoz i do obýváku.</p><span class="vice">Dekory mozaiky</span></a>
+      <a class="obor" href="{{ url('renovace-parket-praha') }}"><h3>Renovace parket</h3><p>Broušení bez prachu, tmelení, výměna poškozených kusů, lak, olej nebo vosk.</p><span class="vice">Jak renovace probíhá</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="sekce sekce-tmava" id="vzornik">
+  <div class="wrap">
+    <h2 class="nadpis-sekce">Vzorník dřevin</h2>
+    <p class="uvod-sekce">Třináct dekorů průmyslové mozaiky. Klepněte na vzorek a zobrazí se název dřeviny.</p>
+    {% include "_vzornik.html" %}
+  </div>
+</section>
+
+<section class="sekce" id="rybina">
+  <div class="wrap dva-sloupce">
+    <div class="text">
+      <h2 class="nadpis-sekce">Rybina, která vydrží</h2>
+      <p>Rybina je nejznámější skladba masivních parket. Každá lamela se klade ručně pod úhlem a výsledek se pozná na první pohled: kresba dřeva se lomí a podlaha „pracuje“ se světlem v místnosti.</p>
+      <p>Na fotkách z realizací je dubová rybina v tmavším tónu, položená v celém bytě včetně kuchyně a chodby.</p>
+      <p><a class="odkaz-sip" href="{{ url('realizace') }}">Další realizace</a></p>
+    </div>
+    <div class="fota-sloupec">{{ img('rybina-b.jpg', 'Dubová rybina v tmavším tónu, detail kresby dřeva', sizes='(min-width: 60rem) 36rem, 100vw') }}{{ img('rybina-f.jpg', 'Dubová rybina položená v celé místnosti', sizes='(min-width: 60rem) 36rem, 100vw') }}</div>
+  </div>
+</section>
+
+<section class="sekce sekce-pruh" id="renovace">
+  <div class="wrap">
+    <h2 class="nadpis-sekce">Renovace v pěti krocích</h2>
+    <ol class="kroky" role="list">
+      <li><b>Posouzení stavu</b><span>Podíváme se na podlahu, rozhodneme, co stačí vybrousit a co vyměnit.</span></li>
+      <li><b>Broušení bez prachu</b><span>Odsávané broušení, ať se prach nedostane do bytu.</span></li>
+      <li><b>Tmelení a oprava</b><span>Spáry a trhliny se vytmelí, poškozené parkety se vymění.</span></li>
+      <li><b>Lak, olej nebo vosk</b><span>Povrch podle toho, co chcete: lesk, matný lak, nebo olej, který podlaze nechá vzhled dřeva.</span></li>
+      <li><b>Schody a detaily</b><span>Stejný postup umíme i u schodů.</span></li>
+    </ol>
+    <div class="dvojfoto">{{ img('lak-a.jpg', 'Vybroušená a nalakovaná parketová rybina s odrazem okna', sizes='(min-width: 60rem) 36rem, 100vw') }}</div>
+  </div>
+</section>
+
+<section class="sekce" id="studio">
+  <div class="wrap dva-sloupce">
+    <div class="text">
+      <h2 class="nadpis-sekce">Studio na Vinohradech</h2>
+      <p>Vzorky, kresbu dřeva a povrchy si můžete prohlédnout přímo ve studiu na Slavíkově 29, pět minut od náměstí Jiřího z Poděbrad. Pracujeme v Praze a ve Středočeském kraji.</p>
+      <p class="kontakt-radky"><b>Slavíkova 29, Praha 2</b><br>Po–Út 9–18, St–Čt 9–17, Pá 9–16:30<br>přestávka 12–13 h</p>
+      <p class="akce"><a class="tlacitko" href="{{ url('kontakt') }}#poptavka">Poslat poptávku</a></p>
+    </div>
+    <div class="text">
+      <h3>Hledáte vinyl nebo plovoucí podlahy?</h3>
+      <p>Ty prodává stejné studio na <a href="https://www.podlahystastny.cz/">podlahystastny.cz</a>. Tady se věnujeme masivnímu dřevu a řemeslu kolem něj.</p>
+    </div>
+  </div>
+</section>
+{% endblock %}
