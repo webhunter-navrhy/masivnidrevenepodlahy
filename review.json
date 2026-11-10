@@ -1,0 +1,19 @@
+{
+  "znamka": 7,
+  "slabiny": [
+    "Sekce Renovace v pěti krocích (PC, 1440 px): fotka lak-a-640 je roztažená 1,8× na celou šířku (1152 px). Je rozmazaná, plná odlesků a u spodního okraje má červený předmět. Fotku zmenšit na nejvýš 640–760 px a dát ji vedle kroků do dvou sloupců (kroky vlevo pod sebou, fotka vpravo). Spodek oříznout přes aspect-ratio a object-position, aby červený předmět zmizel.",
+    "Hlavička a hero (PC i mobil): klient má na webu jako hlavní výzvu „Zavolejte nám na číslo 728 252 929“, v návrhu je ale telefon jen v patičce. Do hlavičky na PC dát vedle tlačítka Poptat klikací číslo 728 252 929, na mobilu ikonu telefonu vedle tlačítka Menu. V hero dát místo odkazu „Prohlédnout vzorník“ druhé CTA „Zavolat“. Kurzívový podtitul „pro Prahu a okolí“ (zakázaný vzor) přepsat do běžného řezu, nebo ho vložit do eyebrow „Praha 2 – Vinohrady“.",
+    "Sekce Co u nás najdete a Rybina, která vydrží (PC): 4 stejné karty jen s textem působí jako šablona. Do každé karty dát nahoru výřez reálné fotky nebo vzorku (prkno, rybina, mozaika ze vzorníku, renovace). V sekci Rybina nahradit dva tenké pruhy (poměr asi 4:1, rybina v nich není čitelná) jednou fotkou v poměru 4:3 v plné výšce textového sloupce."
+  ],
+  "zavazne": [
+    "Sekce Renovace v pěti krocích, PC: fotka img/lak-a-640.webp je roztažená 1,8× (640 → 1152 px), je viditelně rozmazaná a QA kvůli ní končí chybou (ok: false). Zmenšit na přirozenou velikost nebo použít větší zdroj."
+  ],
+  "silne": [
+    "Koncept vzorníku dřevin (13 klikacích vzorků mozaiky na tmavém podkladu) vychází přímo z oboru i z toho, co firma prodává. Tmavá plocha má důvod, vzorky na ní vyniknou.",
+    "Brand sedí: logo Podlahy Šťastný je vlevo v hlavičce, červená #c9291d z loga je jediný akcent na CTA a linkách, krémová a hnědá paleta odpovídá dřevu.",
+    "Pravdivý obsah z briefu: studio Slavíkova 29 pět minut od náměstí Jiřího z Poděbrad, otevírací doba, broušení bez prachu, lak, olej i vosk, odkaz na sesterský web s vinylem. Žádná vymyšlená čísla ani recenze.",
+    "Mobil bez přetékání na všech šířkách, karty a vzorník jsou na 390 px čitelné, dotykové cíle mají správnou velikost. Fraunces s Barlow vykreslí diakritiku správně."
+  ],
+  "verdikt": "Solidní, pravdivý redesign s dobrým oborovým nápadem (vzorník dřevin) a dodrženým brandem. Kvůli roztažené rozmazané fotce v sekci Renovace, telefonu schovanému v patičce a šablonovitým textovým kartám zatím není na odeslání. Verdikt: opravit.",
+  "_hash": "961acbb58572231abe61e8358e356cda6d94e438"
+}

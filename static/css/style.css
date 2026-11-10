@@ -96,3 +96,11 @@ a.obor:hover{transform:translateY(-3px);border-top-color:var(--accent)}
 .pat-male,.pat-dole{font-size:var(--step--1);color:#a99f8e}.pat-dole{margin-top:var(--space-4);padding-top:1rem;border-top:1px solid #4a443d}
 @media(max-width:48rem){.dva-sloupce,.pat-mrizka{grid-template-columns:1fr}.sekce{padding-block:var(--space-4)}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+.tlacitko-druhe{background:transparent;color:var(--text);border:2px solid var(--text)}.tlacitko-druhe:hover{background:var(--text);color:#fff}
+.hl-tel{margin-left:auto;display:inline-flex;align-items:center;min-height:44px;padding:0 .4rem;font-weight:600;text-decoration:none;white-space:nowrap}
+.hl-tel::before{content:"\260E";margin-right:.4rem;color:var(--accent)}
+@media(max-width:62rem){.hl-tel span{display:none}.hl-tel{min-width:44px;justify-content:center;border:1px solid var(--line);border-radius:2px}.hl-tel::before{margin:0}}
+@media(max-width:25rem){.hl-tel{display:none}}
+.obor img{width:calc(100% + 3rem);margin:-1.5rem -1.5rem 1rem;aspect-ratio:16/10;object-fit:cover;max-width:none}
+.reno{align-items:start}.reno .kroky{grid-template-columns:1fr;margin:0}.reno-foto{margin:0}.reno-foto img{aspect-ratio:4/3;object-fit:cover;object-position:center 30%}
+#rybina .fota-sloupec img{aspect-ratio:4/3}
